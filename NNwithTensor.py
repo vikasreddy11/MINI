@@ -37,3 +37,4 @@ predictions = model.predict(X_test[:5])
 predicted_classes = predictions.argmax(axis=1)
 
 print(predictions)
+#edhszjnzed
